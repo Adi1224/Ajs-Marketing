@@ -33,10 +33,7 @@ public class EditPettyCash extends Base
 		pettycashpage.clickOnEditButton();
 		
 		System.out.println(pettycashpage.getEditWithProjectRadioButton().isSelected());
-		
-		
-		
-		
+	
 	}
 	
 	@BeforeMethod

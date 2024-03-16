@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-08T19:18:18 IST" name="Default suite" finished-at="2024-03-08T19:18:36 IST" duration-ms="17836">
+  <suite started-at="2024-03-15T17:08:49 IST" name="Default suite" finished-at="2024-03-15T17:09:21 IST" duration-ms="31567">
     <groups>
     </groups>
-    <test started-at="2024-03-08T19:18:18 IST" name="Default test" finished-at="2024-03-08T19:18:36 IST" duration-ms="17836">
+    <test started-at="2024-03-15T17:08:49 IST" name="Default test" finished-at="2024-03-15T17:09:21 IST" duration-ms="31567">
       <class name="pettyCashTest.AddPettyCash">
-        <test-method is-config="true" signature="getURL()[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-08T19:18:19 IST" name="getURL" finished-at="2024-03-08T19:18:26 IST" duration-ms="7293" status="PASS">
+        <test-method is-config="true" signature="getURL()[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-15T17:08:50 IST" name="getURL" finished-at="2024-03-15T17:09:11 IST" duration-ms="20817" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getURL -->
-        <test-method signature="addPettyCash(java.util.HashMap)[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-08T19:18:26 IST" name="addPettyCash" data-provider="getPettyCashData" finished-at="2024-03-08T19:18:36 IST" duration-ms="9639" status="PASS">
+        <test-method signature="addPettyCash(java.util.HashMap)[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-15T17:09:11 IST" name="addPettyCash" data-provider="getPettyCashData" finished-at="2024-03-15T17:09:21 IST" duration-ms="9683" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addPettyCash -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-08T19:18:36 IST" name="closure" finished-at="2024-03-08T19:18:36 IST" duration-ms="100" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:pettyCashTest.AddPettyCash@5e0826e7]" started-at="2024-03-15T17:09:21 IST" name="closure" finished-at="2024-03-15T17:09:21 IST" duration-ms="127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
